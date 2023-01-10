@@ -1,0 +1,10 @@
+{
+    "users": [ 
+        {
+            "imie" : "Adam",
+            "nazwisko" : "Kowalski",
+            "rok" : 2000
+        }
+
+    ]
+}
